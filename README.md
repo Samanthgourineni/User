@@ -1,6 +1,6 @@
 # User
 
-#Team Details
+# Team Details
 
 - Samanth Gourineni
 - Abhishek Telugu
